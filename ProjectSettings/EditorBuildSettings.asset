@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Lecture 5 - 6/Scene/Main Menu.unity
-    guid: 435418c55308305458bd6ad5ab275e67
+    path: Assets/Lecture 3 - 4/Scene/Main Menu.unity
+    guid: 7a364ac31edc6c445af6cb1473b9a7e8
   - enabled: 1
-    path: Assets/Lecture 5 - 6/Scene/Gameplay.unity
-    guid: 7990abbc942959e41b48d67b23bcf0e2
+    path: Assets/Lecture 3 - 4/Scene/Gameplay.unity
+    guid: 0258d37297c3f9c4a99ab0ce08e10efe
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
